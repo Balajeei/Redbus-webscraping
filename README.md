@@ -9,10 +9,10 @@ The Redbus Webscraping project is designed to collect detailed travel informatio
 3. User Interface: A simple and interactive user interface built with Streamlit to display the scraped data.
 
 **Tools**
-Python: The primary programming language used in the project.
-Selenium: For automating the web scraping process.
-MySQL: Database used to store the extracted data.
-Streamlit: To build a user-friendly interface for displaying the data.
+1. Python: The primary programming language used in the project.
+2. Selenium: For automating the web scraping process.
+3. MySQL: Database used to store the extracted data.
+4. Streamlit: To build a user-friendly interface for displaying the data.
 
 **Findings**
 The automated web scraping process informative and accurately extracts key bus details, significantly reducing manual effort.
